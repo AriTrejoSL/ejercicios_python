@@ -29,4 +29,5 @@ if distancia==abs(radio1-radio2):
 if distancia>0 and distancia<abs(radio1-radio2):
 	print("Circunferencias interiores")
 if distancia==0:
-	print("Circunferencias concéntricas")
+	print("Circunferencias concéntricas"10
+	

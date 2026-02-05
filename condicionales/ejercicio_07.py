@@ -15,4 +15,4 @@ else:
 	if exponente==0:
 		print("La potencia es 1")
 	else:
-		print("La potencia es", 1/(base**abs(exponente)))
+		print("La potencia es", 1/(base**abs(exponente)
